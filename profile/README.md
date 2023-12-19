@@ -2,6 +2,8 @@
 
 We are a team formed within the Maspex Group organization to automate business processes
 
+Our all repos are private ⛔
+
 <!--
 
 **Here are some ideas to get you started:**
