@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We're team created into Maspex Group organisation in robotic process organisation case
+We are a team formed within the Maspex Group organization to automate business processes
 
 <!--
 
